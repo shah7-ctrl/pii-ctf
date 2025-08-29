@@ -5,13 +5,13 @@ Project Guardian 2.0 is a security-first system designed to **detect, redact, an
 
 The system integrates at multiple layers (client, frontend, backend, and external services) to ensure **low-latency detection**, **scalable deployment**, and **defense-in-depth against data breaches**.  
 
-## 📂 Repository Structure
-├── detector_full_candidate_name.py             # PII detection script
-├── iscp_pii_dataset_-_Sheet1.csv               # Input dataset
-├── redacted_output_candidate_full_name.csv     # Redacted results
-├── requirements.txt                            # Python dependencies
-├── README.md                                   # Documentation
 
+## 📂 Repository Structure
+├── detector_full_candidate_name.py # PII detection script
+├── iscp_pii_dataset_-_Sheet1.csv # Input dataset
+├── redacted_output_candidate_full_name.csv # Redacted results
+├── requirements.txt # Python dependencies
+├── README.md # Documentation
 
 ---
 
